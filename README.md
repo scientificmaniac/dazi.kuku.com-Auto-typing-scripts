@@ -62,7 +62,7 @@ python typing_app.py
 - 运行程序前，请确保 Chrome 浏览器和 ChromeDriver 版本匹配，否则可能会导致程序无法正常运行。
 
 ## 贡献与反馈
-如果你对该项目有任何建议或发现了 bug，请随时提交 issue 或 pull request。我们欢迎任何形式的贡献，共同完善这个智能打字训练助手！
+如果你对该项目有任何建议或发现了 bug，请随时提交 issue 或 pull request。我们欢迎任何形式的贡献，共同完善这个小工具
 
 ## 许可证
 本项目采用 [MIT 许可证](LICENSE)。
