@@ -1,0 +1,49 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+eggs/
+sdist/
+wheels/
+MANIFEST
+.installed.cfg
+*.egg
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# ===== PyInstaller 构建产物 =====
+/build/
+/dist/
+*.manifest
+
+# ===== WebDriver 二进制（不入库，请本地放置） =====
+chromedriver.exe
+chromedriver
+geckodriver
+geckodriver.exe
+
+# ===== 日志与临时文件 =====
+*.log
+*.tmp
+*.bak
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ===== 操作系统 =====
+Thumbs.db
+Desktop.ini
+.DS_Store
