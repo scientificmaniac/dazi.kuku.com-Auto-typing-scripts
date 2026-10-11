@@ -1,0 +1,16 @@
+# 仓库内统一按文本处理，检出时按平台转换换行符
+* text=auto
+
+# 源码与配置显式声明为文本
+*.py   text
+*.spec text
+*.md   text
+*.txt  text
+
+# 二进制文件不参与换行转换与文本 diff
+*.exe binary
+*.dll binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.zip binary
